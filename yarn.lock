@@ -8914,7 +8914,7 @@ pify@^4.0.1:
 
 pinia@2.0.0-beta.3:
   version "2.0.0-beta.3"
-  resolved "https://registry.npmjs.org/pinia/-/pinia-2.0.0-beta.3.tgz#c6f0d07da54dc5aa237f4cc9281898e927b33d16"
+  resolved "https://registry.yarnpkg.com/pinia/-/pinia-2.0.0-beta.3.tgz#c6f0d07da54dc5aa237f4cc9281898e927b33d16"
   integrity sha512-4ygKhe9FrYD69tJ7nSdgHm9Ldb0aM/Nzyb8Qz/RZuzOyOr85jWHNmCAhCytWy0l9C4/ypGJYCEJ3vuZfyWjcZA==
   dependencies:
     "@vue/devtools-api" "^6.0.0-beta.14"
