@@ -57,9 +57,9 @@ theme:
   profile_shape: diamond # support `circle`, `diamond`, `rounded`
   feature: true
   gradient:
-    color_1: '#24c6dc'
-    color_2: '#5433ff'
-    color_3: '#ff0099'
+    color_1: '#264653'
+    color_2: '#e9c46a'
+    color_3: '#e76f51'
 
 #! ---------------------------------------------------------------
 #! Social Configs
@@ -105,9 +105,9 @@ gitalk:
   autoExpand: true
   clientID: ''
   clientSecret: ''
-  repo: 'dev-blog-comments'
-  owner: 'TriDiamond'
-  admin: ['TriDiamond']
+  repo: 'alemoreau.dev-comments'
+  owner: 'alemoreau'
+  admin: ['alemoreau']
   id: uid
   language: en
   distractionFreeMode: true
@@ -127,7 +127,7 @@ valine:
   avatarForce: false
   meta: ['nick', 'mail']
   requiredFields: []
-  admin: 'TriDiamond'
+  admin: 'alemoreau'
   recentComment: true
 
 # Enable Busuanzi statistic plugin
